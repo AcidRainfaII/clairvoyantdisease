@@ -1,2 +1,2 @@
-<img width="1080" height="1851" alt="odyssey 4" src="https://github.com/user-attachments/assets/055d15bd-9c14-4107-b736-043ae3882ca1" />
+<img width="1024" height="1851" alt="odyssey 4" src="https://github.com/user-attachments/assets/aea64eee-851a-4ac1-82ed-ce76a8d72c49" />
 
