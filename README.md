@@ -6,4 +6,4 @@
   
 <p align="center">
   <a href="https://acidrain.atabook.org/">ata</a> 
-$${\color{cyan}\text{This text uses normal spacing without needing backslashes}}$$
+$${\color{#6173A0}\text{. SP is still a WIP :3}}$$
