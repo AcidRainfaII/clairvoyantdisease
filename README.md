@@ -6,4 +6,4 @@
   
 <p align="center">
   <a href="https://acidrain.atabook.org/">ata</a> 
-  $${\color{#6173A0}\textsf{. \space sp \space is \space still \space a \space WIP}}$$
+  $${\color{#FF5733}\texttt{This \space is \space monospaced \space text}}$$
